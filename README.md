@@ -9,3 +9,4 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHiddenObserver&layout=compact&hide_border=true&langs_count=10)
 
 
+![Leetcode Stats](https://stats.justsong.cn/api/leetcode?username=TheHiddenObserver&cn=true)
